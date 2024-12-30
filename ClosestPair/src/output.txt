@@ -1,0 +1,85 @@
+C:\Users\suram\OneDrive\Desktop\ClosestPair_v0.1\src>javac ClosestPair.java Main_1.java
+
+C:\Users\suram\OneDrive\Desktop\ClosestPair_v0.1\src>java Main_1
+Input Size: 10000
+Average Runtime - Brute Force: 255.77337000000003 ms
+Closest Points - Brute Force: (8828.182320135813, 42136.94159895115) and (8827.332580233076, 42133.66527600537)
+Minimum Distance - Brute Force: 3.3847230237247867
+Average Runtime - Optimized: 23.42526 ms
+Closest Points - Optimized: (8828.182320135813, 42136.94159895115) and (8827.332580233076, 42133.66527600537)
+Minimum Distance - Optimized: 3.3847230237247867
+
+Input Size: 20000
+Average Runtime - Brute Force: 1238.44484 ms
+Closest Points - Brute Force: (24246.800283988472, 28014.049963297988) and (24249.07965048312, 28016.78473382806)
+Minimum Distance - Brute Force: 3.5601237996824877
+Average Runtime - Optimized: 18.929949999999998 ms
+Closest Points - Optimized: (24246.800283988472, 28014.049963297988) and (24249.07965048312, 28016.78473382806)
+Minimum Distance - Optimized: 3.5601237996824877
+
+Input Size: 30000
+Average Runtime - Brute Force: 2897.45642 ms
+Closest Points - Brute Force: (15819.597799245083, 10214.863254940925) and (15821.259608787563, 10216.532963923459)       
+Minimum Distance - Brute Force: 2.3557459629238853
+Average Runtime - Optimized: 25.84943 ms
+Closest Points - Optimized: (15819.597799245083, 10214.863254940925) and (15821.259608787563, 10216.532963923459)
+Minimum Distance - Optimized: 2.3557459629238853
+
+Input Size: 40000
+Average Runtime - Brute Force: 6850.012 ms
+Closest Points - Brute Force: (22292.84518198981, 8599.44069217931) and (22291.400926921284, 8599.555633316337)
+Minimum Distance - Brute Force: 1.448821648080657
+Average Runtime - Optimized: 47.89302 ms
+Closest Points - Optimized: (22292.84518198981, 8599.44069217931) and (22291.400926921284, 8599.555633316337)
+Minimum Distance - Optimized: 1.448821648080657
+
+Input Size: 50000
+Average Runtime - Brute Force: 10173.916510000001 ms
+Closest Points - Brute Force: (48071.33723906441, 2113.312928226746) and (48070.6916831302, 2112.8179239189803)
+Minimum Distance - Brute Force: 0.8134935334075627
+Average Runtime - Optimized: 62.74556000000001 ms
+Closest Points - Optimized: (48071.33723906441, 2113.312928226746) and (48070.6916831302, 2112.8179239189803)
+Minimum Distance - Optimized: 0.8134935334075627
+
+Input Size: 60000
+Average Runtime - Brute Force: 12446.421809999998 ms
+Closest Points - Brute Force: (15100.214225971187, 37896.50300083455) and (15100.071525507825, 37895.9276092266)
+Minimum Distance - Brute Force: 0.5928228443146388
+Average Runtime - Optimized: 60.39584 ms
+Closest Points - Optimized: (15100.214225971187, 37896.50300083455) and (15100.071525507825, 37895.9276092266)
+Minimum Distance - Optimized: 0.5928228443146388
+
+Input Size: 70000
+Average Runtime - Brute Force: 16037.0041 ms
+Closest Points - Brute Force: (37290.66228175349, 8473.131666920863) and (37290.696320700255, 8473.011452053892)
+Minimum Distance - Brute Force: 0.12494104264753818
+Average Runtime - Optimized: 68.09298999999999 ms
+Closest Points - Optimized: (37290.66228175349, 8473.131666920863) and (37290.696320700255, 8473.011452053892)
+Minimum Distance - Optimized: 0.12494104264753818
+
+Input Size: 80000
+Average Runtime - Brute Force: 21944.12386 ms
+Closest Points - Brute Force: (27371.912103816492, 27794.615784097827) and (27371.80858583685, 27794.357188300546)        
+Minimum Distance - Brute Force: 0.2785457924297014
+Average Runtime - Optimized: 82.6543 ms
+Closest Points - Optimized: (27371.912103816492, 27794.615784097827) and (27371.80858583685, 27794.357188300546)
+Minimum Distance - Optimized: 0.2785457924297014
+
+Input Size: 90000
+Average Runtime - Brute Force: 29666.320760000002 ms
+Closest Points - Brute Force: (43622.560031523484, 29691.097962480584) and (43622.450530655275, 29691.27170989054)        
+Minimum Distance - Brute Force: 0.20537429879494917
+Average Runtime - Optimized: 102.18045 ms
+Closest Points - Optimized: (43622.560031523484, 29691.097962480584) and (43622.450530655275, 29691.27170989054)
+Minimum Distance - Optimized: 0.20537429879494917
+
+Input Size: 100000
+Average Runtime - Brute Force: 32366.705890000005 ms
+Closest Points - Brute Force: (47887.98315536269, 17977.337838609452) and (47887.5807769741, 17977.54362345485)
+Minimum Distance - Brute Force: 0.45194664529874845
+Average Runtime - Optimized: 97.75792000000001 ms
+Closest Points - Optimized: (47887.98315536269, 17977.337838609452) and (47887.5807769741, 17977.54362345485)
+Minimum Distance - Optimized: 0.45194664529874845
+
+
+C:\Users\suram\OneDrive\Desktop\ClosestPair_v0.1\src>
