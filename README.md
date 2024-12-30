@@ -56,5 +56,7 @@ Project Demo : https://www.youtube.com/watch?v=JPkZqrL0U4Q
 
 References:
 M. I. Shamos and D. Hoey, "Closest-point problems," 1975.
+
 J. Kleinberg and E. Tardos, "Algorithm Design," 2005.
+
 GeeksForGeeks and other online resources.
