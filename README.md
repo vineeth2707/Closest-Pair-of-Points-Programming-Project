@@ -1,5 +1,6 @@
 # Closest-Pair-of-Points-Programming-Project
 Project Overview
+
 This repository presents an in-depth analysis of two algorithms used to solve the Closest Pair of Points problem in computational geometry. The project compares a brute-force method (ALG1) with a divide-and-conquer strategy (ALG2) to determine the shortest distance between points in a 2D space. The study provides insights into the time complexities, experimental results, and scalability of these algorithms.
 
 Features
@@ -52,6 +53,7 @@ The results validate the divide-and-conquer approach as the superior method for 
 
 Additional Resources
 Project Demo : https://www.youtube.com/watch?v=JPkZqrL0U4Q 
+
 References:
 M. I. Shamos and D. Hoey, "Closest-point problems," 1975.
 J. Kleinberg and E. Tardos, "Algorithm Design," 2005.
